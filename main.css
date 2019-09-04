@@ -1,4 +1,4 @@
-/* Спецификация */
+
 
 body {
     font-family: 'PT Sans', sans-serif;
@@ -44,7 +44,6 @@ h2 {
 }
 
 
-/* Первый экран */
 
 .header {
     background: #fcdb00;
@@ -124,7 +123,7 @@ h2 {
     color: #898989
 }
 
-/* Третий экран */
+
 
 .touch {
     background: #010101;
@@ -163,7 +162,7 @@ h2 {
     outline: none;
 }
 
-/* Футер */
+
 
 .footer {
     background: #000;
@@ -178,7 +177,7 @@ h2 {
     text-align: center;
 }
 
-/* Медиа-запросы */
+
 
 @media screen and (max-width: 992px) {
     .logo {
